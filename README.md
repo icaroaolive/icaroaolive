@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Icaro Aguiar Oliveira</h1>
+<h1 align="center">Olá 👋, Eu sou Icaro Aguiar Oliveira</h1>
 <h3 align="center">Aprendiz de DevOPS / Governante de Tecnologias da Informação</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=icaroaolive&label=Profile%20views&color=0e75b6&style=flat" alt="icaroaolive" /> </p>
