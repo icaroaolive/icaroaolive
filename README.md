@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DevOPS / ArgoCD + Kubernetes / Angular / C#**
 
-- 💬 Ask me about **PHP / Assembly / C# / Engenharia Reversa / Design / UI / UX**
+- 💬 Ask me about **.NET Core / Assembly / C# / Engenharia Reversa / Design / UI / UX**
 
 - 📫 How to reach me **icaro.aolive@gmail.com**
 
